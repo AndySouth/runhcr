@@ -12,7 +12,7 @@
 geo_id <- function ( name_camp ) {
 
   #for now uses a lookup table from Diana because we couldn't work from the API
-  data(geo_id_lookup)
+  #data(geo_id_lookup)
 
   #which(geo_id_lookup$name=="Katanga")
   geo_id_lookup$geo_id[ which(geo_id_lookup$name==name_camp)]
