@@ -54,6 +54,10 @@ These functions have not been well tested and are not well protected against pas
     17 2017-01-31     1485820800         265
     18 2017-02-28     1488240000         265
 
-## ISSUES
+## TODO
+
+1. contact UNHCR to see when documentation for the API will be made available
+1. add checks for if return values are not as expected (empty or multiple objects where not expected)
+1. tweet and see if anyon wants to use/contribute
 
 
