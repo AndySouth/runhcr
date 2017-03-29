@@ -58,6 +58,7 @@ These functions have not been well tested and are not well protected against pas
 
 1. contact UNHCR to see when documentation for the API will be made available
 1. add checks for if return values are not as expected (empty or multiple objects where not expected)
-1. tweet and see if anyon wants to use/contribute
+1. add ability to extract for all camps in a country
+1. tweet and see if anyone wants to use/contribute
 
 
